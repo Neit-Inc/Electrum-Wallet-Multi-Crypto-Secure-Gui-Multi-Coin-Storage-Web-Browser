@@ -1,6 +1,6 @@
 ﻿
 namespace BinanceWallet
-{
+{ 
     partial class Form1
     { 
         /// <summary>
